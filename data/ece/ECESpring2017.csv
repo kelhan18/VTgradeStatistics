@@ -1,0 +1,120 @@
+﻿department,course_number_1,course_title,faculty,course_ei,credit_hours,qca,number,As,Bs,Cs,Ds,Fs,Textbox10
+ECE,1574,Engr Problem Solving with C++,McPherson,12743,3,3.57,57,75.4,14.0,7.0,1.8,1.8,7
+ECE,1574,Engr Problem Solving with C++,McPherson,12744,3,3.72,59,76.3,18.6,1.7,3.4,0.0,9
+ECE,1574,Engr Problem Solving with C++,McPherson,12745,3,3.61,67,71.6,20.9,6.0,1.5,0.0,3
+ECE,1574,Engr Problem Solving with C++,McPherson,12746,3,3.28,58,65.5,13.8,13.8,1.7,5.2,8
+ECE,1574,Engr Problem Solving with C++,McPherson,12747,3,3.25,64,59.4,25.0,7.8,1.6,6.3,9
+ECE,2004,Electric Circuit Analysis,Ngo,12748,3,2.51,71,23.9,39.4,16.9,7.0,12.7,5
+ECE,2004,Electric Circuit Analysis,Zhu,12749,3,2.89,87,34.5,36.8,20.7,3.4,4.6,2
+ECE,2014,Engr Professionalism ECE,Ball,12750,2,3.46,97,70.1,21.6,2.1,0.0,6.2,1
+ECE,2014,Engr Professionalism ECE,Ball,12751,2,3.70,118,85.6,8.5,2.5,1.7,1.7,0
+ECE,2054,Applied Electrical Theory,De La Reelopez,12752,3,2.52,264,12.5,39.8,39.0,4.5,4.2,13
+ECE,2074,Electric Circuit Analysis Lab,Ball,12754,1,2.69,111,19.8,48.6,19.8,7.2,4.5,1
+ECE,2164,Exploration of Space,Bailey,12755,3,3.77,34,97.1,0.0,0.0,0.0,2.9,0
+ECE,2204,Electronics,Poon,12756,3,2.28,80,15.0,27.5,41.3,10.0,6.3,19
+ECE,2204,Electronics,Poon,12757,3,2.15,61,16.4,21.3,39.3,14.8,8.2,16
+ECE,2274,Elctrnc Netwks Lab I,Cooper,12758,1,3.92,12,91.7,8.3,0.0,0.0,0.0,0
+ECE,2274,Elctrnc Netwks Lab I,Cooper,12759,1,3.91,14,92.9,7.1,0.0,0.0,0.0,1
+ECE,2274,Elctrnc Netwks Lab I,Cooper,12760,1,3.98,16,100.0,0.0,0.0,0.0,0.0,0
+ECE,2274,Elctrnc Netwks Lab I,Cooper,12761,1,3.69,16,81.3,12.5,0.0,6.3,0.0,0
+ECE,2274,Elctrnc Netwks Lab I,Cooper,12762,1,4.00,13,100.0,0.0,0.0,0.0,0.0,0
+ECE,2274,Elctrnc Netwks Lab I,Cooper,12763,1,3.86,16,93.8,0.0,6.3,0.0,0.0,0
+ECE,2274,Elctrnc Netwks Lab I,Cooper,12764,1,3.81,16,87.5,6.3,6.3,0.0,0.0,0
+ECE,2274,Elctrnc Netwks Lab I,Cooper,12765,1,3.96,15,100.0,0.0,0.0,0.0,0.0,0
+ECE,2274,Elctrnc Netwks Lab I,Cooper,12767,1,3.71,16,87.5,6.3,0.0,0.0,6.3,0
+ECE,2274,Elctrnc Netwks Lab I,Cooper,12768,1,3.98,15,100.0,0.0,0.0,0.0,0.0,0
+ECE,2500,Computer Org & Architecture,Williams,12769,3,3.28,59,49.2,39.0,5.1,5.1,1.7,0
+ECE,2500,Computer Org & Architecture,Patterson,12770,3,2.53,52,30.8,28.8,21.2,7.7,11.5,2
+ECE,2504,Intro Computer Engr,Cooper,12771,3,2.27,63,17.5,27.0,41.3,3.2,11.1,6
+ECE,2504,Intro Computer Engr,Cooper,12773,3,2.57,63,23.8,30.2,36.5,4.8,4.8,8
+ECE,2524,Intro to Unix for Engineers,Mitchell-Colgan,12774,2,2.92,102,23.5,54.9,15.7,3.9,2.0,1
+ECE,2534,Microcontroller Interfacing,Nazhandali,12775,4,3.05,55,40.0,38.2,12.7,5.5,3.6,3
+ECE,2534,Microcontroller Interfacing,Thweatt,12776,4,2.09,21,19.0,23.8,28.6,9.5,19.0,2
+ECE,2534,Microcontroller Interfacing,Nazhandali,12777,4,3.38,53,56.6,30.2,9.4,0.0,3.8,2
+ECE,2534,Microcontroller Interfacing,Thweatt,12778,4,3.04,29,34.5,44.8,13.8,3.4,3.4,2
+ECE,2534,Microcontroller Interfacing,Zeng,12779,4,2.96,30,40.0,30.0,20.0,3.3,6.7,3
+ECE,2574,Data Structures and Algorithms,Li,12780,3,2.50,82,20.7,41.5,18.3,8.5,11.0,9
+ECE,2704,Signals and Systems,Tam,12782,3,2.16,76,9.2,27.6,38.2,17.1,7.9,10
+ECE,2704,Signals and Systems,Tam,12783,3,2.12,100,8.0,22.0,51.0,12.0,7.0,3
+ECE,3004,AC Circuit Analysis,Poon,12788,3,2.50,62,11.3,38.7,43.5,4.8,1.6,4
+ECE,3054,Electrical Theory,Orlowski,12789,3,2.84,117,30.8,35.0,24.8,7.7,1.7,3
+ECE,3105,Electromagnetic Fields,Scales,12792,3,2.54,67,17.9,29.9,43.3,6.0,3.0,0
+ECE,3106,Electromagnetic Fields,Ellingson,12793,3,2.57,35,17.1,40.0,34.3,0.0,8.6,3
+ECE,3106,Electromagnetic Fields,Xu,12794,3,2.92,52,23.1,51.9,25.0,0.0,0.0,2
+ECE,3204,Analog Electronics,Li,12795,3,3.34,70,51.4,31.4,17.1,0.0,0.0,0
+ECE,3204,Analog Electronics,Jia,12796,3,3.15,45,40.0,42.2,17.8,0.0,0.0,1
+ECE,3254,Industrial Electronics,Broadwater,12797,3,3.55,127,72.4,18.9,7.1,0.8,0.8,2
+ECE,3304,Introduction to Power Systems,Kekatos,12805,3,2.56,55,34.5,18.2,32.7,9.1,5.5,2
+ECE,3304,Introduction to Power Systems,Mayer,12806,3,2.80,40,35.0,27.5,27.5,7.5,2.5,4
+ECE,3354,Power Laboratory,Cooper,12807,1,3.35,15,66.7,26.7,0.0,0.0,6.7,0
+ECE,3354,Power Laboratory,Cooper,12808,1,3.13,13,30.8,53.8,15.4,0.0,0.0,0
+ECE,3354,Power Laboratory,Cooper,12809,1,3.03,16,37.5,43.8,12.5,0.0,6.3,0
+ECE,3354,Power Laboratory,Cooper,12811,1,2.81,16,12.5,56.3,25.0,6.3,0.0,0
+ECE,3354,Power Laboratory,Cooper,12812,1,2.78,14,7.1,57.1,35.7,0.0,0.0,0
+ECE,3354,Power Laboratory,Cooper,12813,1,3.24,16,37.5,43.8,18.8,0.0,0.0,0
+ECE,3544,Digital Design I,Thweatt,12814,4,2.30,53,17.0,32.1,24.5,17.0,9.4,4
+ECE,3574,Applied Software Design,Wyatt,12815,3,1.87,92,22.8,13.0,29.3,3.3,31.5,21
+ECE,3614,Intro Comm Systems,Dhillon,12816,3,3.00,62,32.3,35.5,29.0,3.2,0.0,1
+ECE,3614,Intro Comm Systems,Saad,12817,3,3.05,44,34.1,43.2,20.5,2.3,0.0,0
+ECE,3704,Cont and Disc Systems,Black,12818,3,2.86,40,35.0,35.0,10.0,20.0,0.0,2
+ECE,3704,Cont and Disc Systems,Black,12819,3,2.46,63,15.9,33.3,39.7,6.3,4.8,2
+ECE,4114,Antennas,Earle,12820,3,2.57,24,16.7,37.5,37.5,4.2,4.2,0
+ECE,4124,Radio Wave Propagation,Ruohoniemi,12821,3,3.20,16,50.0,25.0,12.5,12.5,0.0,1
+ECE,4214,Semiconductor Device Fund,Hudait,12827,3,3.54,55,56.4,43.6,0.0,0.0,0.0,1
+ECE,4304,Design in Power Engineering,Centeno,12828,3,3.87,21,95.2,4.8,0.0,0.0,0.0,0
+ECE,4344,Power Quality for Digital Econ,Tam,12829,3,2.48,17,11.8,41.2,35.3,11.8,0.0,0
+ECE,4354,Power System Protection,De La Reelopez,12830,3,3.25,15,66.7,6.7,20.0,6.7,0.0,0
+ECE,4364,Alternate Energy Systems,Rahman,12831,3,2.27,39,10.3,28.2,46.2,10.3,5.1,2
+ECE,4514,Digital Design II,Athanas,12834,4,2.83,20,45.0,25.0,15.0,5.0,10.0,1
+ECE,4524,Artif Intellig and Engr Appl,Abbott,12835,4,2.48,25,20.0,24.0,40.0,12.0,4.0,0
+ECE,4534,Embedded System Design,Jones,12836,4,2.69,17,35.3,17.6,35.3,11.8,0.0,2
+ECE,4534,Embedded System Design,Jones,12837,4,2.66,20,25.0,30.0,30.0,10.0,5.0,2
+ECE,4574,Large Software Dev Engr Sys,Jones,12840,3,3.43,19,73.7,10.5,10.5,0.0,5.3,0
+ECE,4580,Digital Image Processing,Xuan,12842,3,3.09,39,41.0,35.9,15.4,5.1,2.6,2
+ECE,4644,Satellite Communications,Michaels,12846,3,3.56,13,53.8,46.2,0.0,0.0,0.0,0
+ECE,4806,Senior Design Project,Schulz,12849,3,3.89,59,93.2,5.1,1.7,0.0,0.0,0
+ECE,5204,Power Semiconductor Devices,Guido,12887,3,3.95,11,100.0,0.0,0.0,0.0,0.0,0
+ECE,5205,Basic Semiconductor Devices,Orlowski,12888,3,3.35,17,64.7,17.6,5.9,11.8,0.0,0
+ECE,5220,RFIC Design,Koh,12890,3,3.79,10,100.0,0.0,0.0,0.0,0.0,0
+ECE,5374,Adv Alternate Energy Systems,Rahman,12892,3,2.92,13,38.5,30.8,23.1,0.0,7.7,0
+ECE,5454,Optimization Techniques - ECE,Yu,12893,3,3.74,10,80.0,20.0,0.0,0.0,0.0,0
+ECE,5454,Optimization Techniques - ECE,Yu,12894,3,3.82,21,90.5,9.5,0.0,0.0,0.0,0
+ECE,5484,Fundamentals Computer Systems,Yang,12895,3,3.20,48,50.0,33.3,10.4,2.1,4.2,0
+ECE,5534,Electronic Design Automation,Patterson,12900,3,3.88,11,90.9,9.1,0.0,0.0,0.0,0
+ECE,5586,IT Security and Trust,Raymond,12905,3,3.75,34,79.4,20.6,0.0,0.0,0.0,0
+ECE,5664,Cellular Communication Systems,Reed,12913,3,3.96,15,100.0,0.0,0.0,0.0,0.0,0
+ECE,5764,Applied Linear Control,Southward,12914,3,3.76,16,81.3,18.8,0.0,0.0,0.0,0
+ECE,6554,Advanced Computer Vision,Huang,13153,3,3.85,16,100.0,0.0,0.0,0.0,0.0,0
+ECE,5564,Wearable & Ubiquitous Comp,Martin,18061,3,3.48,13,38.5,61.5,0.0,0.0,0.0,2
+ECE,3074,AC Circuit Analysis Laboratory,Baumann,18216,1,2.55,58,19.0,32.8,39.7,3.4,5.2,1
+ECE,5684,Error Control Coding,MacKenzie,18226,3,3.86,14,92.9,7.1,0.0,0.0,0.0,0
+ECE,5714,Robust Estimation & Filtering,Mili,18231,3,3.80,10,80.0,20.0,0.0,0.0,0.0,0
+ECE,5566,Network Arch and Protocols,Yang,18232,3,3.66,18,55.6,44.4,0.0,0.0,0.0,0
+ECE,2274,Elctrnc Netwks Lab I,Cooper,18236,1,3.84,14,92.9,0.0,7.1,0.0,0.0,0
+ECE,3274,Elctrnc Circuits Lab II,Cooper,18239,1,3.35,15,53.3,26.7,20.0,0.0,0.0,0
+ECE,3274,Elctrnc Circuits Lab II,Cooper,18243,1,3.67,14,71.4,28.6,0.0,0.0,0.0,0
+ECE,3274,Elctrnc Circuits Lab II,Cooper,18244,1,3.58,14,64.3,35.7,0.0,0.0,0.0,0
+ECE,3274,Elctrnc Circuits Lab II,Cooper,18245,1,3.15,16,50.0,31.3,12.5,0.0,6.3,0
+ECE,3274,Elctrnc Circuits Lab II,Cooper,18246,1,3.29,11,27.3,63.6,9.1,0.0,0.0,0
+ECE,4206,Electronic Circuit Design,Sable,18251,3,3.39,20,40.0,60.0,0.0,0.0,0.0,0
+ECE,4560,Comp and Net Security Fund,Marchany,18277,3,3.77,39,76.9,23.1,0.0,0.0,0.0,0
+ECE,4560,Comp and Net Security Fund,Marchany,18278,3,3.64,44,68.2,27.3,4.5,0.0,0.0,0
+ECE,6314,Adv Instrumentation in Pwr Sys,Centeno,18289,3,3.73,12,83.3,16.7,0.0,0.0,0.0,0
+ECE,6104,TS: Nanophotonics,Zhou,18291,3,3.85,11,90.9,9.1,0.0,0.0,0.0,0
+ECE,2534,Microcontroller Interfacing,Schaumont,18340,4,3.17,36,47.2,33.3,16.7,0.0,2.8,0
+ECE,4614,Telecommunication Networks,MacKenzie,18345,3,3.15,66,30.3,48.5,21.2,0.0,0.0,0
+ECE,5654,Dig Comm Adv Theory & Analy,Marojevic,18458,3,3.46,16,43.8,56.3,0.0,0.0,0.0,0
+ECE,5575,Object-Oriented Software Devel,Broadwater,18483,3,3.92,36,91.7,8.3,0.0,0.0,0.0,0
+ECE,5504,Computer Architecture,Lee,18674,3,3.70,21,71.4,28.6,0.0,0.0,0.0,0
+ECE,5984,SS: Adv Robot Motion Planning,Tokekar,18906,3,3.64,33,69.7,27.3,3.0,0.0,0.0,0
+ECE,4564,Network Application Design,Plymale,19066,3,3.57,73,64.4,32.9,2.7,0.0,0.0,0
+ECE,2074,Electric Circuit Analysis Lab,Ball,19100,1,2.79,95,24.2,50.5,14.7,6.3,4.2,0
+ECE,5984,SS: Adv Linus Kernel Program,Olivier,19494,3,3.71,26,76.9,23.1,0.0,0.0,0.0,0
+ECE,4154,Introduction to Space Weather,England,19553,3,3.00,17,23.5,58.8,11.8,5.9,0.0,0
+ECE,4220,Analog IC Design,Ha,19554,3,2.68,35,34.3,31.4,14.3,8.6,11.4,2
+ECE,5244,Advanced Power Conversion Tech,Lee,19595,3,3.72,23,78.3,21.7,0.0,0.0,0.0,0
+ECE,5984,SS: Cybersecurity and the loT,Giles,19643,3,3.84,58,89.7,10.3,0.0,0.0,0.0,0
+ECE,6204,TS:Energy Power Electronics,Lai,19809,3,3.89,12,91.7,8.3,0.0,0.0,0.0,0
+ECE,2004,Electric Circuit Analysis,Mayer,19964,3,2.31,49,18.4,24.5,34.7,14.3,8.2,13
+ECE,2574,Data Structures and Algorithms,Plassmann,19965,3,2.22,41,26.8,14.6,39.0,4.9,14.6,3
+

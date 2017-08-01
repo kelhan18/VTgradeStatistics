@@ -1,0 +1,81 @@
+﻿department,course_number_1,course_title,faculty,course_ei,credit_hours,qca,number,As,Bs,Cs,Ds,Fs,Textbox10
+CS,1044,Intro Prog in C,Monti,12481,3,3.12,143,53.1,24.5,11.9,3.5,7.0,9
+CS,1044,Intro Prog in C,Monti,12482,3,3.34,106,57.5,30.2,4.7,3.8,3.8,7
+CS,1054,Intro to Programming in Java,Lewis,12483,3,3.24,31,41.9,41.9,16.1,0.0,0.0,1
+CS,1054,Intro to Programming in Java,Lewis,12484,3,2.94,35,22.9,54.3,20.0,2.9,0.0,1
+CS,1054,Intro to Programming in Java,Lewis,12485,3,2.73,34,14.7,44.1,41.2,0.0,0.0,2
+CS,1054,Intro to Programming in Java,Lewis,12486,3,2.69,28,3.6,64.3,28.6,3.6,0.0,3
+CS,1054,Intro to Programming in Java,Lewis,12487,3,2.67,32,9.4,53.1,34.4,3.1,0.0,2
+CS,1054,Intro to Programming in Java,Lewis,12488,3,2.79,29,20.7,41.4,37.9,0.0,0.0,2
+CS,1064,Intro to Programming in Python,Rajamohan,12489,3,3.15,124,28.2,57.3,12.9,0.0,1.6,8
+CS,1114,Intro to Software Design,Irwin,12490,3,2.41,33,24.2,24.2,24.2,24.2,3.0,1
+CS,1114,Intro to Software Design,Barnette,12491,3,2.52,31,25.8,35.5,19.4,6.5,12.9,2
+CS,1114,Intro to Software Design,Edwards,12492,3,2.69,24,33.3,33.3,12.5,8.3,12.5,3
+CS,1114,Intro to Software Design,Edwards,12493,3,2.58,19,21.1,31.6,21.1,26.3,0.0,6
+CS,1114,Intro to Software Design,Barnette,12494,3,2.01,24,8.3,29.2,41.7,4.2,16.7,3
+CS,1114,Intro to Software Design,Edwards,12495,3,2.74,25,20.0,48.0,28.0,0.0,4.0,3
+CS,1114,Intro to Software Design,Edwards,12496,3,2.67,23,21.7,30.4,34.8,13.0,0.0,4
+CS,1114,Intro to Software Design,Barnette,12497,3,2.24,28,7.1,42.9,25.0,21.4,3.6,3
+CS,1114,Intro to Software Design,Edwards,12498,3,2.52,22,22.7,31.8,27.3,13.6,4.5,5
+CS,1114,Intro to Software Design,Irwin,12499,3,2.41,27,11.1,33.3,37.0,14.8,3.7,3
+CS,1114,Intro to Software Design,Barnette,12500,3,2.51,29,24.1,37.9,13.8,10.3,13.8,3
+CS,1604,Introduction to the Internet,Altarawy,12501,1,3.59,131,73.3,19.8,2.3,3.1,1.5,1
+CS,2104,Intro to Problem Solving in CS,Watson,12503,3,2.71,16,12.5,50.0,37.5,0.0,0.0,2
+CS,2104,Intro to Problem Solving in CS,Barnette,12504,3,3.42,33,63.6,33.3,3.0,0.0,0.0,0
+CS,2104,Intro to Problem Solving in CS,Onufriev,12505,3,2.97,35,22.9,48.6,25.7,2.9,0.0,0
+CS,2114,Softw Des & Data Structures,Ellis,12506,3,3.13,26,42.3,34.6,23.1,0.0,0.0,2
+CS,2114,Softw Des & Data Structures,Ellis,12507,3,2.95,25,36.0,24.0,40.0,0.0,0.0,1
+CS,2114,Softw Des & Data Structures,Ellis,12508,3,3.26,24,41.7,50.0,8.3,0.0,0.0,2
+CS,2114,Softw Des & Data Structures,Ellis,12509,3,3.04,28,32.1,50.0,14.3,3.6,0.0,0
+CS,2114,Softw Des & Data Structures,Ellis,12510,3,3.06,24,41.7,33.3,16.7,8.3,0.0,0
+CS,2114,Softw Des & Data Structures,Ellis,12511,3,2.80,23,26.1,52.2,13.0,0.0,8.7,0
+CS,2114,Softw Des & Data Structures,Ellis,12512,3,3.35,24,62.5,16.7,20.8,0.0,0.0,2
+CS,2114,Softw Des & Data Structures,Ellis,12513,3,2.96,28,35.7,39.3,21.4,3.6,0.0,0
+CS,2304,Self Study Prog Sys,Hartsock,12514,1,2.95,42,57.1,11.9,9.5,11.9,9.5,5
+CS,2505,Intro Computer Organization,Monti,12515,3,2.67,74,12.2,54.1,25.7,4.1,4.1,5
+CS,2505,Intro Computer Organization,Jung,12516,3,2.60,114,14.9,43.9,30.7,7.9,2.6,7
+CS,2506,Intro to Computer Organization,Lee,12517,3,2.43,50,18.0,32.0,34.0,8.0,8.0,2
+CS,3114,Data Structures and Algorithms,Shaffer,12520,3,3.09,90,52.2,20.0,15.6,8.9,3.3,4
+CS,3114,Data Structures and Algorithms,Shaffer,12521,3,3.09,68,54.4,17.6,16.2,5.9,5.9,9
+CS,3214,Computer Systems,McQuain,12522,3,2.81,53,20.8,50.9,22.6,3.8,1.9,1
+CS,3214,Computer Systems,Back,12523,3,2.85,46,28.3,43.5,19.6,2.2,6.5,4
+CS,3304,Comparative Languages,Arthur,12524,3,3.25,105,42.9,41.9,12.4,2.9,0.0,1
+CS,3414,Numerical Methods,Onufriev,12525,3,3.48,29,55.2,44.8,0.0,0.0,0.0,1
+CS,3414,Numerical Methods,Cao,12526,3,2.95,31,25.8,48.4,22.6,3.2,0.0,6
+CS,3604,Professionalism in Computing,Dunlap,12527,3,3.62,63,76.2,17.5,1.6,4.8,0.0,1
+CS,3604,Professionalism in Computing,Dunlap,12528,3,3.70,58,82.8,8.6,5.2,3.4,0.0,0
+CS,3654,Intro Data Analytics & Visual,North,12529,3,3.15,26,53.8,19.2,23.1,0.0,3.8,2
+CS,3714,Mobile Software Development,McCrickard,12530,3,3.38,67,59.7,26.9,10.4,1.5,1.5,4
+CS,3724,Human-Computr Intrctn,Harrison,12531,3,3.69,69,76.8,18.8,4.3,0.0,0.0,1
+CS,3744,Intro GUI Programming/Graphics,Luther,12533,3,3.33,78,55.1,29.5,12.8,0.0,2.6,2
+CS,4104,Data and Algorithm Analysis,Murali,12534,3,3.02,61,42.6,23.0,32.8,1.6,0.0,3
+CS,4114,Formal Languages,Zhang,12535,3,2.65,62,17.7,51.6,16.1,12.9,1.6,2
+CS,4284,Systems & Networking Capstone,Butt,12537,3,3.63,24,75.0,20.8,0.0,4.2,0.0,0
+CS,4604,Int Data Base Mgt Sys,Prakash,12540,3,3.02,49,28.6,57.1,6.1,8.2,0.0,1
+CS,4624,Multimedia/Hypertext,Fox,12541,3,2.96,56,28.6,41.1,30.4,0.0,0.0,0
+CS,4704,Software Engineering Capstone,Balci,12544,3,3.48,46,63.0,28.3,6.5,2.2,0.0,0
+CS,4784,Human-Computer Interact Capstn,McCrickard,12545,3,3.90,27,92.6,7.4,0.0,0.0,0.0,0
+CS,5044,Object-Oriented Pgmming Java,Kulczycki,12551,3,3.47,37,56.8,40.5,2.7,0.0,0.0,0
+CS,5114,Theory of Algorithms,Raghvendra,12553,3,3.38,33,51.5,42.4,3.0,3.0,0.0,0
+CS,5114,Theory of Algorithms,Shaban,12554,3,3.92,12,91.7,8.3,0.0,0.0,0.0,0
+CS,5424,Computational Cell Biology,Cao,12556,3,3.83,13,92.3,7.7,0.0,0.0,0.0,0
+CS,5604,Info Storage and Ret,Fox,12565,3,3.47,19,47.4,52.6,0.0,0.0,0.0,0
+CS,5704,Software Engineering,Kulczycki,12567,3,3.72,23,82.6,17.4,0.0,0.0,0.0,0
+CS,5744,Software Design and Quality,Pettit,12570,3,3.73,19,68.4,31.6,0.0,0.0,0.0,0
+CS,5754,Virtual Environments,Polys,12571,3,3.94,16,100.0,0.0,0.0,0.0,0.0,0
+CS,6204,TS:Cloud Computing,Butt,12589,3,3.89,21,100.0,0.0,0.0,0.0,0.0,0
+CS,6724,TS:Desig Change to Pow/Auth,Tatar,12592,3,3.77,14,85.7,14.3,0.0,0.0,0.0,0
+CS,5234,Advanced Parallel Computation,Sandu,19515,3,3.66,23,69.6,30.4,0.0,0.0,0.0,0
+CS,5314,Programming Languages,Ryder,19516,3,3.55,19,57.9,42.1,0.0,0.0,0.0,0
+CS,5704,Software Engineering,Meng,19517,3,3.52,17,64.7,35.3,0.0,0.0,0.0,0
+CS,5854,Computational Systems Biology,Murali,19518,3,3.53,16,62.5,37.5,0.0,0.0,0.0,0
+CS,6704,TS:Software Refactoring,Tilevich,19520,3,3.68,18,83.3,11.1,5.6,0.0,0.0,0
+CS,3704,Intermed Software Des,Servant Cortes,19527,3,3.14,38,34.2,50.0,15.8,0.0,0.0,1
+CS,1114,Intro to Software Design,Edwards,19559,3,2.33,23,4.3,56.5,17.4,13.0,8.7,4
+CS,4984,SS: Cloud Software Development,Balci,19914,3,3.21,63,50.8,33.3,4.8,11.1,0.0,1
+CS,2984,"SS: Intro to Comp Thinking""",Kafura,19921,3,2.96,47,34.0,40.4,19.1,4.3,2.1,2
+CS,4644,Creative Computing Studio,Kelliher,20098,3,3.64,30,70.0,30.0,0.0,0.0,0.0,0
+CS,2506,Intro to Computer Organization,McQuain,20099,3,2.80,60,28.3,28.3,38.3,5.0,0.0,3
+CS,6604,Adv TS: Data & Info Event Mdlg,Ramakrishnan,20244,3,3.72,14,78.6,21.4,0.0,0.0,0.0,0
+CS,5604,Info Storage and Ret,Lu,20245,3,3.56,15,60.0,40.0,0.0,0.0,0.0,0
+CS,1114,Intro to Software Design,Irwin,20405,3,1.55,17,0.0,29.4,23.5,23.5,23.5,8

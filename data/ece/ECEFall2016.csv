@@ -1,0 +1,117 @@
+﻿department,course_number_1,course_title,faculty,course_ei,credit_hours,qca,number,As,Bs,Cs,Ds,Fs,Textbox10
+ECE,1574,Engr Problem Solving with C++,McPherson,82595,3,3.46,37,70.3,21.6,2.7,0.0,5.4,5
+ECE,1574,Engr Problem Solving with C++,McPherson,82596,3,3.64,42,71.4,21.4,7.1,0.0,0.0,1
+ECE,1574,Engr Problem Solving with C++,McPherson,82597,3,3.14,70,55.7,24.3,10.0,4.3,5.7,14
+ECE,2004,Electric Circuit Analysis,Poon,82598,3,2.37,108,20.4,28.7,33.3,3.7,13.9,21
+ECE,2004,Electric Circuit Analysis,Safaai-Jazi,82599,3,2.62,102,19.6,48.0,18.6,4.9,8.8,13
+ECE,2014,Engr Professionalism ECE,Ball,82600,2,3.80,148,88.5,6.8,4.1,0.7,0.0,0
+ECE,2014,Engr Professionalism ECE,Ball,82601,2,3.78,141,87.2,9.9,1.4,0.0,1.4,0
+ECE,2054,Applied Electrical Theory,De La Reelopez,82602,3,2.63,107,29.0,29.9,28.0,8.4,4.7,12
+ECE,2074,Electic Circuit Analysis Lab,Ball,82603,1,2.60,231,15.6,48.1,24.2,5.6,6.5,6
+ECE,2204,Electronics,Hudait,82604,3,3.28,95,30.5,63.2,6.3,0.0,0.0,1
+ECE,2204,Electronics,Koh,82605,3,3.15,76,30.3,59.2,9.2,1.3,0.0,1
+ECE,2274,Elctrnc Netwks Lab I,Cooper,82607,1,3.61,14,64.3,28.6,7.1,0.0,0.0,0
+ECE,2274,Elctrnc Netwks Lab I,Cooper,82608,1,3.70,13,76.9,23.1,0.0,0.0,0.0,0
+ECE,2274,Elctrnc Netwks Lab I,Cooper,82609,1,3.88,11,90.9,9.1,0.0,0.0,0.0,0
+ECE,2274,Elctrnc Netwks Lab I,Cooper,82610,1,3.57,11,54.5,45.5,0.0,0.0,0.0,0
+ECE,2274,Elctrnc Netwks Lab I,Cooper,82611,1,4.00,11,100.0,0.0,0.0,0.0,0.0,0
+ECE,2274,Elctrnc Netwks Lab I,Cooper,82612,1,3.87,15,86.7,13.3,0.0,0.0,0.0,0
+ECE,2274,Elctrnc Netwks Lab I,Cooper,82613,1,3.96,15,100.0,0.0,0.0,0.0,0.0,0
+ECE,2274,Elctrnc Netwks Lab I,Cooper,82614,1,2.98,12,58.3,8.3,25.0,0.0,8.3,0
+ECE,2274,Elctrnc Netwks Lab I,Cooper,82615,1,3.96,14,100.0,0.0,0.0,0.0,0.0,0
+ECE,2274,Elctrnc Netwks Lab I,Cooper,82616,1,3.95,12,100.0,0.0,0.0,0.0,0.0,0
+ECE,2274,Elctrnc Netwks Lab I,Cooper,82617,1,3.61,11,90.9,0.0,0.0,0.0,9.1,0
+ECE,2500,Computer Org & Architecture,Tokekar,82618,3,2.99,56,44.6,32.1,8.9,8.9,5.4,2
+ECE,2504,Intro Computer Engr,Martin,82619,3,2.70,48,25.0,39.6,27.1,2.1,6.3,8
+ECE,2504,Intro Computer Engr,Cooper,82620,3,2.63,48,29.2,29.2,27.1,10.4,4.2,10
+ECE,2504,Intro Computer Engr,Cooper,82621,3,2.82,43,37.2,27.9,25.6,2.3,7.0,9
+ECE,2504,Intro Computer Engr,Hou,82622,3,2.98,39,38.5,38.5,15.4,0.0,7.7,12
+ECE,2504,Intro Computer Engr,Cooper,82623,3,2.81,44,36.4,31.8,20.5,2.3,9.1,8
+ECE,2534,Microcontroller Interfacing,Li,82625,4,2.47,38,26.3,21.1,34.2,10.5,7.9,6
+ECE,2534,Microcontroller Interfacing,Nazhandali,82626,4,2.69,31,38.7,29.0,9.7,9.7,12.9,8
+ECE,2534,Microcontroller Interfacing,Abbott,82627,4,2.53,34,17.6,38.2,32.4,5.9,5.9,4
+ECE,2534,Microcontroller Interfacing,Plassmann,82628,4,2.31,37,18.9,24.3,37.8,5.4,13.5,9
+ECE,2574,Data Structures and Algorithms,Wyatt,82629,3,3.04,53,47.2,26.4,15.1,3.8,7.5,10
+ECE,2574,Data Structures and Algorithms,Wyatt,82630,3,3.09,51,54.9,17.6,13.7,9.8,3.9,13
+ECE,2704,Signals and Systems,Bailey,82631,3,3.28,78,32.1,57.7,9.0,1.3,0.0,3
+ECE,2704,Signals and Systems,Tam,82632,3,1.94,58,12.1,22.4,31.0,13.8,20.7,5
+ECE,3004,AC Circuit Analysis,Burgos,82640,3,3.01,44,40.9,27.3,27.3,4.5,0.0,1
+ECE,3004,AC Circuit Analysis,Mayer,82641,3,2.45,72,16.7,30.6,38.9,11.1,2.8,3
+ECE,3054,Electrical Theory,Lu,82642,3,2.75,24,33.3,37.5,16.7,4.2,8.3,7
+ECE,3054,Electrical Theory,Lindner,82643,3,3.01,105,37.1,43.8,9.5,7.6,1.9,1
+ECE,3074,AC Circuit Analysis Laboratory,Ball,82644,1,3.47,112,65.2,22.3,10.7,0.0,1.8,1
+ECE,3105,Electromagnetic Fields,Ruohoniemi,82645,3,2.79,53,30.2,34.0,22.6,7.5,5.7,1
+ECE,3105,Electromagnetic Fields,Xu,82646,3,2.46,64,14.1,40.6,31.3,9.4,4.7,8
+ECE,3106,Electromagnetic Fields,Zhu,82647,3,2.74,88,20.5,43.2,26.1,8.0,2.3,2
+ECE,3204,Analog Electronics,Agah,82648,3,2.59,69,30.4,30.4,20.3,10.1,8.7,2
+ECE,3254,Industrial Electronics,Broadwater,82649,3,3.50,90,65.6,23.3,7.8,2.2,1.1,5
+ECE,3254,Industrial Electronics,Ha,82650,3,2.86,97,25.8,43.3,24.7,4.1,2.1,4
+ECE,3274,Elctrnc Circuits Lab II,Cooper,82651,1,3.25,15,53.3,40.0,0.0,0.0,6.7,0
+ECE,3274,Elctrnc Circuits Lab II,Cooper,82652,1,3.58,16,56.3,43.8,0.0,0.0,0.0,0
+ECE,3274,Elctrnc Circuits Lab II,Cooper,82653,1,3.34,16,62.5,25.0,6.3,0.0,6.3,0
+ECE,3274,Elctrnc Circuits Lab II,Cooper,82654,1,3.08,13,30.8,46.2,23.1,0.0,0.0,0
+ECE,3304,Introduction to Power Systems,Centeno,82655,3,2.36,67,13.4,34.3,35.8,9.0,7.5,0
+ECE,3354,Power Laboratory,Cooper,82656,1,3.39,14,42.9,57.1,0.0,0.0,0.0,0
+ECE,3354,Power Laboratory,Cooper,82657,1,2.86,16,18.8,50.0,31.3,0.0,0.0,0
+ECE,3354,Power Laboratory,Cooper,82658,1,3.36,14,57.1,28.6,14.3,0.0,0.0,0
+ECE,3354,Power Laboratory,Cooper,82659,1,3.44,16,56.3,37.5,6.3,0.0,0.0,0
+ECE,3544,Digital Design I,Thweatt,82660,4,2.36,36,19.4,38.9,13.9,13.9,13.9,4
+ECE,3544,Digital Design I,Thweatt,82661,4,2.62,31,16.1,45.2,19.4,19.4,0.0,0
+ECE,3544,Digital Design I,Martin,82662,4,2.75,45,31.1,40.0,13.3,8.9,6.7,2
+ECE,3574,Applied Software Design,Jones,82663,3,1.76,45,17.8,24.4,13.3,6.7,37.8,23
+ECE,3614,Intro Comm Systems,MacKenzie,82664,3,2.75,51,15.7,51.0,29.4,2.0,2.0,0
+ECE,3704,Cont and Disc Systems,Beex,82666,3,2.35,44,6.8,45.5,27.3,13.6,6.8,6
+ECE,4205,Electronic Circuit Design,Sable,82670,3,3.51,37,59.5,37.8,2.7,0.0,0.0,0
+ECE,4224,Power Electronics,Boroyevich,82672,3,3.29,32,53.1,31.3,12.5,3.1,0.0,0
+ECE,4304,Design in Power Engineering,Centeno,82673,3,3.87,22,95.5,4.5,0.0,0.0,0.0,0
+ECE,4334,Pwr Syst Ana & Cntrl,De La Reelopez,82674,3,2.88,22,31.8,27.3,36.4,4.5,0.0,3
+ECE,4405,Control Systems,Lindner,82675,3,2.68,46,28.3,28.3,30.4,10.9,2.2,0
+ECE,4424,Machine Learning,Lee,82676,3,2.64,12,50.0,8.3,16.7,8.3,16.7,2
+ECE,4514,Digital Design II,Athanas,82679,4,2.56,16,37.5,31.3,6.3,12.5,12.5,0
+ECE,4530,Hardware-Software Codesign,Schaumont,82681,3,3.52,44,54.5,40.9,4.5,0.0,0.0,0
+ECE,4534,Embedded System Design,Jones,82682,4,3.44,16,75.0,6.3,12.5,0.0,6.3,0
+ECE,4534,Embedded System Design,Patterson,82683,4,3.51,23,65.2,21.7,13.0,0.0,0.0,0
+ECE,4534,Embedded System Design,Plassmann,82684,4,3.71,22,86.4,9.1,4.5,0.0,0.0,1
+ECE,4540,VLSI Circuit Design,Tront,82685,3,3.04,18,44.4,27.8,22.2,0.0,5.6,1
+ECE,4564,Network Application Design,Plymale,82686,3,3.71,73,76.7,21.9,1.4,0.0,0.0,0
+ECE,4624,DSP & Filter Design,Beex,82687,3,2.29,14,28.6,21.4,21.4,14.3,14.3,1
+ECE,4974,Independent Study,Odendaal,82692,3,3.71,15,66.7,33.3,0.0,0.0,0.0,0
+ECE,5104,ADV Microwave & RF Engineering,Manteghi,82713,3,3.10,12,33.3,33.3,33.3,0.0,0.0,0
+ECE,5105,Electromagnetic Waves,Safaai-Jazi,82714,3,3.65,18,66.7,33.3,0.0,0.0,0.0,0
+ECE,5194,Remote Sensing Prin & Tech,Baker,82722,3,3.59,12,75.0,16.7,8.3,0.0,0.0,0
+ECE,5200,Semiconductor Heterostructures,Asryan,82723,3,4.00,10,100.0,0.0,0.0,0.0,0.0,0
+ECE,5210,MEMS Fab and Application,Agah,82724,3,3.40,11,72.7,18.2,0.0,0.0,9.1,0
+ECE,5254,Power Conv Mod & Cont,Li,82725,3,3.84,19,84.2,15.8,0.0,0.0,0.0,0
+ECE,5314,Pwr Sys Oper and Ctrl,Kekatos,82726,3,3.43,10,50.0,40.0,10.0,0.0,0.0,0
+ECE,5424,Advanced Machine Learning,Lee,82727,3,3.80,26,84.6,15.4,0.0,0.0,0.0,0
+ECE,5504,Computer Architecture,Paul,82730,3,3.53,12,50.0,50.0,0.0,0.0,0.0,0
+ECE,5505,Testing & Verif Digit Systems,Hsiao,82731,3,3.50,21,57.1,38.1,4.8,0.0,0.0,0
+ECE,5510,Multiprocessor Programming,Ravindran,82732,3,3.70,28,78.6,21.4,0.0,0.0,0.0,0
+ECE,5554,Computer Vision,Huang,82733,3,4.00,36,100.0,0.0,0.0,0.0,0.0,0
+ECE,5585,IT Security and Trust,Marchany,82738,3,3.60,47,61.7,36.2,2.1,0.0,0.0,0
+ECE,5674,Software Radios,Reed,82744,3,3.26,14,35.7,57.1,7.1,0.0,0.0,0
+ECE,5744,Linear Systems Theory,Stilwell,82745,3,3.53,21,57.1,33.3,9.5,0.0,0.0,0
+ECE,5754,Applied Linear Systems,Southward,82746,3,3.84,24,87.5,12.5,0.0,0.0,0.0,0
+ECE,5914,Autonomous Systems Seminar,Kurdila,82849,1,4.00,11,100.0,0.0,0.0,0.0,0.0,0
+ECE,5565,Network Arch and Protocols,Yang,88034,3,3.56,34,55.9,41.2,2.9,0.0,0.0,0
+ECE,4634,Digital Communications,Abdel-Rahman,88035,3,2.86,14,50.0,7.1,21.4,21.4,0.0,5
+ECE,4605,Radio Engineering,Ellingson,88036,3,2.92,17,35.3,29.4,29.4,5.9,0.0,2
+ECE,5424,Advanced Machine Learning,Wang,88070,3,3.84,38,84.2,15.8,0.0,0.0,0.0,0
+ECE,5484,Fundamentals Computer Systems,Giles,88081,3,3.45,23,60.9,34.8,0.0,0.0,4.3,0
+ECE,5665,Telecommunications,Sweeney,88082,3,3.40,16,50.0,43.8,6.3,0.0,0.0,0
+ECE,5605,Stochastic Signals and Systems,Abdel Hadi,88110,3,3.47,13,53.8,46.2,0.0,0.0,0.0,0
+ECE,5605,Stochastic Signals and Systems,Dhillon,88112,3,3.26,31,45.2,41.9,12.9,0.0,0.0,0
+ECE,5560,Fundamentals of Info Security,Park,88131,3,3.59,20,65.0,35.0,0.0,0.0,0.0,0
+ECE,1574,Engr Problem Solving with C++,McPherson,88680,3,3.54,49,77.6,12.2,6.1,0.0,4.1,1
+ECE,5984,SS:Game Theory for Comm Netwrk,Saad,88681,3,3.50,10,50.0,50.0,0.0,0.0,0.0,0
+ECE,5234,EMI Noise Reduction,Odendaal,88694,3,2.97,11,9.1,81.8,9.1,0.0,0.0,1
+ECE,5284,Energy Harvest Circuit Design,Ha,88730,3,3.69,14,71.4,28.6,0.0,0.0,0.0,0
+ECE,6504,TS:Graph Theoretic Methods,Williams,89029,3,3.76,12,83.3,16.7,0.0,0.0,0.0,0
+ECE,4525,Video Game Design and Eng,Hsiao,89046,3,3.11,26,50.0,34.6,3.8,7.7,3.8,2
+ECE,4534,Embedded System Design,Patterson,89158,4,3.58,22,77.3,13.6,4.5,0.0,4.5,0
+ECE,2534,Microcontroller Interfacing,Abbott,89159,4,1.98,37,24.3,13.5,27.0,5.4,29.7,3
+ECE,3704,Cont and Disc Systems,Yu,89412,3,2.99,21,33.3,42.9,19.0,0.0,4.8,0
+ECE,2574,Data Structures and Algorithms,Gerdes,89413,3,2.73,19,52.6,5.3,15.8,10.5,15.8,3
+ECE,5984,SS: Cyber-Physical Systems,Zeng,89478,3,3.72,19,89.5,10.5,0.0,0.0,0.0,0
+ECE,2524,Intro to Unix for Engineers,Chantem,89697,2,3.43,97,66.0,22.7,7.2,2.1,2.1,1
+

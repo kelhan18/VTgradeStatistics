@@ -1,0 +1,44 @@
+﻿department,course_number_1,course_title,faculty,course_ei,credit_hours,qca,number,As,Bs,Cs,Ds,Fs,Textbox10
+AOE,2074,Computational Methods,Wang,80349,2,2.63,28,17.9,42.9,28.6,7.1,3.6,0
+AOE,2074,Computational Methods,Wang,80350,2,2.88,25,20.0,56.0,20.0,4.0,0.0,0
+AOE,2074,Computational Methods,Wang,80351,2,2.66,27,14.8,40.7,37.0,7.4,0.0,2
+AOE,2074,Computational Methods,Wang,80352,2,2.86,27,25.9,37.0,33.3,3.7,0.0,0
+AOE,2074,Computational Methods,Wang,80353,2,2.48,29,17.2,27.6,37.9,17.2,0.0,0
+AOE,2104,Intro to Aerospace Engineering,Artis,80355,2,3.70,141,75.2,22.0,2.8,0.0,0.0,1
+AOE,2204,Intro to Ocean Engineering,Xiao,80356,2,3.00,25,32.0,44.0,16.0,4.0,4.0,0
+AOE,3014,Aero/Hydrodynamics,Kuester,80358,3,2.34,69,10.1,43.5,23.2,18.8,4.3,5
+AOE,3014,Aero/Hydrodynamics,Roy,80359,3,2.29,40,12.5,25.0,45.0,10.0,7.5,2
+AOE,3024,Thin-Walled Structures,Seidel,80360,3,2.81,31,29.0,35.5,25.8,9.7,0.0,1
+AOE,3024,Thin-Walled Structures,Seidel,80361,3,3.36,80,43.8,47.5,8.8,0.0,0.0,1
+AOE,3034,Vehicle Vibration and Control,Philen,80362,3,3.30,85,44.7,44.7,10.6,0.0,0.0,0
+AOE,3034,Vehicle Vibration and Control,Philen,80363,3,2.92,39,35.9,38.5,15.4,5.1,5.1,0
+AOE,3044,Boundary Layer Theory,Schetz,80364,3,3.01,150,21.3,58.7,18.7,0.7,0.7,0
+AOE,4004,CAD Controls,Farhood,80365,3,3.23,21,33.3,61.9,4.8,0.0,0.0,0
+AOE,4065,Aircraft Design,Raj,80367,3,3.14,72,37.5,41.7,19.4,1.4,0.0,0
+AOE,4134,Astromechanics,Black,80368,3,3.24,77,31.2,62.3,6.5,0.0,0.0,1
+AOE,4134,Astromechanics,Black,80369,3,3.34,52,34.6,61.5,3.8,0.0,0.0,0
+AOE,4154,Aero Engr Lab,Ma,80370,1,3.65,19,68.4,31.6,0.0,0.0,0.0,0
+AOE,4154,Aero Engr Lab,Ma,80371,1,3.37,19,47.4,42.1,10.5,0.0,0.0,0
+AOE,4154,Aero Engr Lab,Ma,80372,1,3.20,17,35.3,52.9,11.8,0.0,0.0,0
+AOE,4154,Aero Engr Lab,Ma,80373,1,3.52,20,55.0,45.0,0.0,0.0,0.0,0
+AOE,4154,Aero Engr Lab,Ma,80376,1,3.42,20,50.0,45.0,5.0,0.0,0.0,0
+AOE,4154,Aero Engr Lab,Ma,80377,1,3.38,22,45.5,50.0,4.5,0.0,0.0,0
+AOE,4154,Aero Engr Lab,Ma,80379,1,3.24,20,45.0,50.0,0.0,0.0,5.0,0
+AOE,4165,Spacecraft Design,Shinpaugh,80380,3,3.24,61,29.5,68.9,1.6,0.0,0.0,0
+AOE,4234,Aerospace Propulsion Systems,Lowe,80381,3,3.01,138,25.4,55.1,17.4,2.2,0.0,0
+AOE,4264,Principles Naval Engineering,Brown,80385,3,3.32,17,58.8,23.5,17.6,0.0,0.0,0
+AOE,4265,Ship Design,Brown,80387,3,3.44,16,31.3,68.8,0.0,0.0,0.0,0
+AOE,4334,Ship Dynamics,Brizzolara,80389,3,3.37,26,50.0,38.5,7.7,3.8,0.0,0
+AOE,4994,Undergraduate Research,Black,80412,1,3.93,14,100.0,0.0,0.0,0.0,0.0,1
+AOE,5024,Vehicle Structures,Kapania,80416,3,3.58,26,57.7,42.3,0.0,0.0,0.0,0
+AOE,5104,Adv Aero Hydrody,Devenport,80421,3,3.21,43,41.9,39.5,16.3,2.3,0.0,0
+AOE,5204,Vehicle Dynamics and Control,Sultan,80431,3,3.50,35,65.7,31.4,0.0,0.0,2.9,0
+AOE,5434,Adv Intro Comp Fluid Dynamics,Choi,80435,3,3.65,11,72.7,27.3,0.0,0.0,0.0,0
+AOE,6154,Turbulent Shear Flow,Paterson,87994,3,3.84,17,82.4,17.6,0.0,0.0,0.0,0
+AOE,5204,Vehicle Dynamics and Control,Sultan,87996,3,3.38,16,43.8,50.0,6.3,0.0,0.0,0
+AOE,2214,Intro to Phys Ocean for OE,Xiao,88992,1,3.82,29,96.6,0.0,0.0,0.0,3.4,0
+AOE,4984,SS: Navigation and Guidance,Woolsey,89605,3,3.83,22,81.8,18.2,0.0,0.0,0.0,0
+AOE,4984,SS: Principles of Proj Dsgn,Grossmann,89691,1,3.92,19,100.0,0.0,0.0,0.0,0.0,0
+AOE,2074,Computational Methods,Massa,89719,2,2.60,26,23.1,30.8,30.8,15.4,0.0,1
+AOE,2104,Intro to Aerospace Engineering,Artis,89739,2,3.64,11,63.6,36.4,0.0,0.0,0.0,0
+

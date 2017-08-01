@@ -1,0 +1,85 @@
+﻿department,course_number_1,course_title,faculty,course_ei,credit_hours,qca,number,As,Bs,Cs,Ds,Fs,Textbox10
+CS,1044,Intro Prog in C,Stevens,82418,3,3.04,140,40.0,41.4,10.0,1.4,7.1,2
+CS,1044,Intro Prog in C,Stevens,82419,3,2.74,65,26.2,36.9,24.6,9.2,3.1,2
+CS,1054,Intro to Programming in Java,Lewis,82420,3,2.78,219,23.7,43.4,23.7,5.9,3.2,12
+CS,1064,Intro to Programming in Python,Monti,82426,3,3.27,112,47.3,36.6,13.4,1.8,0.9,10
+CS,1604,Introduction to the Internet,Altarawy,82438,1,3.72,79,82.3,13.9,1.3,1.3,1.3,0
+CS,2104,Intro to Problem Solving in CS,Watson,82440,3,2.67,37,8.1,59.5,27.0,2.7,2.7,2
+CS,2104,Intro to Problem Solving in CS,Watson,82441,3,3.03,30,10.0,73.3,16.7,0.0,0.0,4
+CS,2104,Intro to Problem Solving in CS,Barnette,82442,3,2.94,69,21.7,59.4,17.4,1.4,0.0,2
+CS,2505,Intro Computer Organization,Monti,82453,3,2.72,60,13.3,55.0,21.7,8.3,1.7,6
+CS,2505,Intro Computer Organization,Monti,82454,3,3.10,96,34.4,43.8,17.7,4.2,0.0,6
+CS,2506,Intro to Computer Organization,McQuain,82455,3,2.65,65,23.1,35.4,27.7,10.8,3.1,12
+CS,2506,Intro to Computer Organization,Lee,82456,3,2.43,54,22.2,27.8,31.5,11.1,7.4,17
+CS,2974,Independent Study,Back,82458,3,4.00,46,100.0,0.0,0.0,0.0,0.0,0
+CS,3114,Data Structures and Algorithms,Shaffer,82460,3,3.14,68,51.5,23.5,13.2,8.8,2.9,5
+CS,3114,Data Structures and Algorithms,Prakash,82461,3,2.95,59,33.9,42.4,11.9,6.8,5.1,1
+CS,3214,Computer Systems,McQuain,82462,3,2.81,54,27.8,29.6,35.2,7.4,0.0,6
+CS,3214,Computer Systems,McQuain,82463,3,2.61,67,11.9,41.8,40.3,6.0,0.0,6
+CS,3304,Comparative Languages,Gracanin,82464,3,3.14,42,33.3,50.0,14.3,2.4,0.0,2
+CS,3414,Numerical Methods,Cao,82466,3,3.11,18,44.4,33.3,22.2,0.0,0.0,1
+CS,3604,Professionalism in Computing,Dunlap,82467,3,3.55,50,74.0,18.0,4.0,2.0,2.0,0
+CS,3604,Professionalism in Computing,Dunlap,82468,3,3.61,37,75.7,21.6,2.7,0.0,0.0,0
+CS,3704,Intermed Software Des,Edmison,82470,3,3.64,42,69.0,28.6,2.4,0.0,0.0,0
+CS,3724,Human-Computr Intrctn,Bowman,82473,3,3.63,80,72.5,26.3,0.0,1.3,0.0,0
+CS,3744,Intro GUI Programming/Graphics,Luther,82474,3,3.27,54,55.6,31.5,7.4,1.9,3.7,2
+CS,4104,Data and Algorithm Analysis,Raghvendra,82476,3,2.73,59,20.3,39.0,33.9,6.8,0.0,0
+CS,4124,Theory of Computation,Heath,82477,3,3.14,42,35.7,47.6,14.3,0.0,2.4,0
+CS,4234,Parallel Computation,Feng,82478,3,3.32,17,64.7,11.8,17.6,5.9,0.0,1
+CS,4264,Principles Computer Security,Wang,82479,3,3.43,65,50.8,44.6,4.6,0.0,0.0,0
+CS,4284,Systems & Networking Capstone,Cameron,82480,3,4.00,16,100.0,0.0,0.0,0.0,0.0,0
+CS,4634,Design Of Information,Harrison,82483,3,3.23,20,35.0,55.0,5.0,5.0,0.0,0
+CS,4704,Software Engineering Capstone,Tilevich,82484,3,4.00,14,100.0,0.0,0.0,0.0,0.0,0
+CS,4974,Independent Study,Cao,82489,3,3.97,10,100.0,0.0,0.0,0.0,0.0,0
+CS,4974,Independent Study,Dunlap,82489,3,3.97,10,100.0,0.0,0.0,0.0,0.0,0
+CS,4974,Independent Study,Edmison,82489,3,3.97,10,100.0,0.0,0.0,0.0,0.0,0
+CS,4974,Independent Study,Feng,82489,3,3.97,10,100.0,0.0,0.0,0.0,0.0,0
+CS,4974,Independent Study,Gracanin,82489,3,3.97,10,100.0,0.0,0.0,0.0,0.0,0
+CS,4974,Independent Study,Harrison,82489,3,3.97,10,100.0,0.0,0.0,0.0,0.0,0
+CS,4974,Independent Study,Luther,82489,3,3.97,10,100.0,0.0,0.0,0.0,0.0,0
+CS,4974,Independent Study,Ribbens,82489,3,3.97,10,100.0,0.0,0.0,0.0,0.0,0
+CS,4994,Undergraduate Research,Cao,82490,3,3.87,15,86.7,13.3,0.0,0.0,0.0,0
+CS,4994,Undergraduate Research,Dunlap,82490,3,3.87,15,86.7,13.3,0.0,0.0,0.0,0
+CS,4994,Undergraduate Research,Edmison,82490,3,3.87,15,86.7,13.3,0.0,0.0,0.0,0
+CS,4994,Undergraduate Research,Heath,82490,3,3.87,15,86.7,13.3,0.0,0.0,0.0,0
+CS,4994,Undergraduate Research,Luther,82490,3,3.87,15,86.7,13.3,0.0,0.0,0.0,0
+CS,4994,Undergraduate Research,McQuain,82490,3,3.87,15,86.7,13.3,0.0,0.0,0.0,0
+CS,4994,Undergraduate Research,Raghvendra,82490,3,3.87,15,86.7,13.3,0.0,0.0,0.0,0
+CS,4994,Undergraduate Research,Ribbens,82490,3,3.87,15,86.7,13.3,0.0,0.0,0.0,0
+CS,4994,Undergraduate Research,Tilevich,82490,3,3.87,15,86.7,13.3,0.0,0.0,0.0,0
+CS,4994,Undergraduate Research,Wang,82490,3,3.87,15,86.7,13.3,0.0,0.0,0.0,0
+CS,5014,Research Meth in CS,Tilevich,82491,3,3.86,33,93.9,6.1,0.0,0.0,0.0,0
+CS,5044,Object-Oriented Pgmming Java,Kulczycki,82492,3,3.53,47,63.8,31.9,4.3,0.0,0.0,0
+CS,5045,Computation for Life Sciences,Heath,82493,3,3.73,10,70.0,30.0,0.0,0.0,0.0,0
+CS,5204,Operating Systems,Butt,82494,3,3.45,27,55.6,37.0,7.4,0.0,0.0,0
+CS,5244,Internet Software,Kulczycki,82496,3,3.64,19,68.4,31.6,0.0,0.0,0.0,0
+CS,5485,Numer Analy and Softw,Sandu,82500,3,3.80,10,80.0,20.0,0.0,0.0,0.0,0
+CS,5525,Data Analytics,Reddy,82503,3,3.59,43,67.4,27.9,4.7,0.0,0.0,0
+CS,5704,Software Engineering,Balci,82508,3,3.93,15,93.3,6.7,0.0,0.0,0.0,0
+CS,5704,Software Engineering,Kulczycki,82509,3,3.74,37,78.4,21.6,0.0,0.0,0.0,0
+CS,5724,Models of HCI,Harrison,82511,3,3.75,17,82.4,17.6,0.0,0.0,0.0,0
+CS,5744,Software Design and Quality,Edwards,82512,3,4.00,11,100.0,0.0,0.0,0.0,0.0,0
+CS,6604,TS: Instructional Design in CS,Kafura,82534,3,3.97,11,100.0,0.0,0.0,0.0,0.0,0
+CS,3304,Comparative Languages,Meng,88551,3,2.64,58,20.7,43.1,31.0,5.2,0.0,0
+CS,3714,Mobile Software Development,Balci,88552,3,2.95,51,41.2,33.3,13.7,9.8,2.0,2
+CS,1014,Intro Computational Thinking,Kafura,88566,3,3.35,60,56.7,30.0,6.7,6.7,0.0,5
+CS,5124,Algorithms in Bioinformatics,Zhang,88621,3,3.84,17,100.0,0.0,0.0,0.0,0.0,0
+CS,5565,Network Arch and Protocols,Yang,88622,3,3.17,10,30.0,60.0,10.0,0.0,0.0,0
+CS,5774,User Interface Software,Luther,88624,3,3.74,20,80.0,20.0,0.0,0.0,0.0,0
+CS,1114,Intro to Software Design,Irwin,88734,3,2.18,69,10.1,33.3,31.9,15.9,8.7,12
+CS,1114,Intro to Software Design,Barnette,88735,3,2.28,194,11.9,33.5,36.1,9.8,8.8,50
+CS,2114,Softw Des & Data Structures,Ellis,88737,3,3.06,171,36.3,42.1,15.8,2.9,2.9,13
+CS,2114,Softw Des & Data Structures,Ellis,88975,3,3.25,127,43.3,42.5,12.6,0.8,0.8,10
+CS,4644,Creative Computing Studio,McCrickard,88983,3,3.72,21,90.5,4.8,0.0,0.0,4.8,0
+CS,5764,Information Visualization,North,88985,3,3.72,22,77.3,22.7,0.0,0.0,0.0,0
+CS,3114,Data Structures and Algorithms,Shaffer,89020,3,3.13,52,42.3,32.7,17.3,7.7,0.0,5
+CS,4804,Introduction to AI,Huang,89022,3,3.35,55,47.3,40.0,12.7,0.0,0.0,1
+CS,6204,TS: Prog Anomaly Detect/Lrng,Yao,89024,3,4.00,10,100.0,0.0,0.0,0.0,0.0,0
+CS,5525,Data Analytics,Reddy,89049,3,3.48,19,52.6,47.4,0.0,0.0,0.0,0
+CS,5604,Info Storage and Ret,Fox,89096,3,3.74,17,70.6,29.4,0.0,0.0,0.0,0
+CS,3604,Professionalism in Computing,Tatar,89192,3,3.28,17,52.9,35.3,5.9,0.0,5.9,0
+CS,5644,Machine Learning with Big Data,Ramakrishnan,89424,3,3.94,43,93.0,7.0,0.0,0.0,0.0,0
+CS,3714,Mobile Software Development,Seyam,89496,3,3.71,37,73.0,27.0,0.0,0.0,0.0,2
+CS,1014,Intro Computational Thinking,Bart,89499,3,3.64,36,77.8,19.4,2.8,0.0,0.0,0
+CS,1114,Intro to Software Design,Leal,89511,3,2.32,68,19.1,27.9,29.4,11.8,11.8,18
+CS,5984,SS: Urban Computing,Ramakrishnan,89602,3,3.91,29,100.0,0.0,0.0,0.0,0.0,0

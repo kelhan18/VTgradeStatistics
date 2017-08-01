@@ -1,0 +1,62 @@
+﻿department,course_number_1,course_title,faculty,course_ei,credit_hours,qca,number,As,Bs,Cs,Ds,Fs,Textbox10
+CS,1044,Intro Prog in C,Stevens,12559,3,2.65,185,21.6,45.9,18.4,4.9,9.2,7
+CS,1064,Intro to Programming in Python,Monti,12566,3,3.29,195,55.9,27.2,10.8,3.6,2.6,11
+CS,2104,Intro to Problem Solving in CS,Onufriev,12582,3,3.49,55,50.9,47.3,1.8,0.0,0.0,0
+CS,2104,Intro to Problem Solving in CS,Ellis,12583,3,3.71,56,76.8,23.2,0.0,0.0,0.0,0
+CS,2304,Self Study Prog Sys,Hartsock,12594,1,3.73,45,77.8,20.0,2.2,0.0,0.0,4
+CS,2505,Intro Computer Organization,Monti,12595,3,2.69,131,16.8,54.2,18.3,3.8,6.9,6
+CS,2505,Intro Computer Organization,Jung,12596,3,2.82,136,10.3,67.6,17.6,2.2,2.2,6
+CS,2506,Intro to Computer Organization,McQuain,12597,3,2.67,111,18.0,47.7,18.9,13.5,1.8,5
+CS,3114,Data Structures and Algorithms,McQuain,12601,3,2.62,61,19.7,37.7,32.8,8.2,1.6,7
+CS,3114,Data Structures and Algorithms,McQuain,12602,3,2.65,78,28.2,26.9,33.3,7.7,3.8,7
+CS,3214,Computer Systems,Butt,12603,3,2.84,67,31.3,41.8,17.9,6.0,3.0,5
+CS,3214,Computer Systems,Butt,12604,3,3.01,48,33.3,45.8,10.4,10.4,0.0,3
+CS,3304,Comparative Languages,Gracanin,12605,3,2.73,116,20.7,43.1,25.0,10.3,0.9,7
+CS,3414,Numerical Methods,Sandu,12607,3,2.82,29,34.5,31.0,20.7,6.9,6.9,3
+CS,3604,Professionalism in Computing,Dunlap,12608,3,3.96,62,96.8,3.2,0.0,0.0,0.0,4
+CS,3604,Professionalism in Computing,Dunlap,12609,3,3.71,81,86.4,8.6,0.0,1.2,3.7,1
+CS,3654,Intro Data Analytics & Visual,Sengupta,12611,3,3.77,16,75.0,25.0,0.0,0.0,0.0,1
+CS,3704,Intermed Software Des,Edmison,12612,3,3.53,38,63.2,34.2,2.6,0.0,0.0,0
+CS,3714,Mobile Software Development,Esakia,12613,3,3.69,66,83.3,10.6,3.0,0.0,3.0,4
+CS,3724,Human-Computr Intrctn,McCrickard,12614,3,3.82,118,90.7,8.5,0.0,0.0,0.8,0
+CS,4104,Data and Algorithm Analysis,Shaffer,12616,3,3.04,79,38.0,39.2,17.7,3.8,1.3,0
+CS,4114,Formal Languages,Zhang,12617,3,3.03,44,36.4,40.9,20.5,0.0,2.3,2
+CS,4284,Systems & Networking Capstone,Back,12618,3,3.60,21,57.1,42.9,0.0,0.0,0.0,0
+CS,4604,Int Data Base Mgt Sys,Quintin,12620,3,3.18,49,34.7,55.1,8.2,2.0,0.0,1
+CS,4624,Multimedia/Hypertext,Fox,12621,3,3.08,78,29.5,52.6,17.9,0.0,0.0,0
+CS,4644,Creative Computing Studio,Harrison,12622,3,3.64,28,67.9,32.1,0.0,0.0,0.0,0
+CS,4704,Software Engineering Capstone,Edmison,12624,3,3.99,23,100.0,0.0,0.0,0.0,0.0,0
+CS,4784,Human-Computer Interact Capstn,Kavanaugh,12625,3,3.71,19,89.5,10.5,0.0,0.0,0.0,0
+CS,5044,Object-Oriented Pgmming Java,Kulczycki,12632,3,3.32,49,69.4,18.4,2.0,0.0,10.2,0
+CS,5114,Theory of Algorithms,Heath,12634,3,3.63,35,65.7,34.3,0.0,0.0,0.0,0
+CS,5234,Advanced Parallel Computation,Feng,12636,3,3.32,14,42.9,57.1,0.0,0.0,0.0,0
+CS,5244,Internet Software,Kulczycki,12637,3,3.61,29,72.4,24.1,0.0,0.0,3.4,0
+CS,5526,Data Analytics,Huang,12643,3,3.84,22,90.9,9.1,0.0,0.0,0.0,0
+CS,5704,Software Engineering,Kulczycki,12650,3,3.61,37,67.6,32.4,0.0,0.0,0.0,0
+CS,5714,Usability Engineering,Hartson,12651,3,4.00,18,100.0,0.0,0.0,0.0,0.0,0
+CS,5744,Software Design and Quality,Pettit,12652,3,3.98,17,100.0,0.0,0.0,0.0,0.0,0
+CS,5754,Virtual Environments,Bowman,12653,3,3.81,13,92.3,7.7,0.0,0.0,0.0,0
+CS,6704,TS:Software Engineering Rsrch,Meng,12678,3,3.79,15,86.7,13.3,0.0,0.0,0.0,0
+CS,1054,Intro to Programming in Java,Lewis,18113,3,2.93,274,23.0,57.3,15.3,2.2,2.2,6
+CS,1114,Intro to Software Design,Irwin,18121,3,2.34,182,13.7,35.7,26.4,18.1,6.0,31
+CS,1114,Intro to Software Design,Barnette,18122,3,2.18,191,9.4,33.5,31.9,16.8,8.4,36
+CS,2114,Softw Des & Data Structures,Barnette,18136,3,2.91,153,31.4,40.5,20.3,2.6,5.2,9
+CS,2114,Softw Des & Data Structures,Ellis,18137,3,3.20,89,36.0,49.4,11.2,2.2,1.1,8
+CS,4104,Data and Algorithm Analysis,Murali,18154,3,3.04,49,28.6,55.1,12.2,4.1,0.0,3
+CS,4204,Computer Graphics,Gracanin,18155,3,2.79,15,33.3,13.3,46.7,6.7,0.0,1
+CS,5504,Computer Architecture,Lee,18157,3,3.55,11,63.6,36.4,0.0,0.0,0.0,0
+CS,5590,System and Software Security,Yao,18158,3,3.85,11,90.9,9.1,0.0,0.0,0.0,0
+CS,5614,Database Management Systems,Prakash,18159,3,3.79,32,87.5,12.5,0.0,0.0,0.0,0
+CS,1014,Intro Computational Thinking,Kafura,18161,3,3.02,51,49.0,31.4,5.9,3.9,9.8,2
+CS,5664,Social Media Analytics,Ramakrishnan,18276,3,3.56,34,73.5,17.6,5.9,2.9,0.0,0
+CS,5526,Data Analytics,Huang,18671,3,3.98,15,100.0,0.0,0.0,0.0,0.0,0
+CS,6604,TS:Digital Libraries,Fox,19209,3,3.83,11,90.9,9.1,0.0,0.0,0.0,0
+CS,3654,Intro Data Analytics & Visual,North,19213,3,3.49,23,47.8,47.8,4.3,0.0,0.0,0
+CS,1014,Intro Computational Thinking,Bart,19396,3,3.36,45,60.0,22.2,15.6,0.0,2.2,0
+CS,5525,Data Analytics,Reddy,19450,3,3.62,25,68.0,32.0,0.0,0.0,0.0,0
+CS,3984,SS: Cloud Software Development,Balci,19458,3,3.16,47,44.7,29.8,23.4,2.1,0.0,0
+CS,6204,Adv TS:Trust Mgmt Netwrk Systm,Chen,19584,3,3.84,14,92.9,7.1,0.0,0.0,0.0,0
+CS,4264,Principles Computer Security,Giles,19593,3,3.39,32,59.4,34.4,3.1,0.0,3.1,1
+CS,2304,Self Study Prog Sys,Charles,19772,1,3.90,36,94.4,5.6,0.0,0.0,0.0,1
+CS,3714,Mobile Software Development,Seyam,19835,3,3.30,40,67.5,12.5,12.5,0.0,7.5,2
+CS,4984,SS: Capstone in Social Network,Krishnan,19938,3,3.72,22,81.8,18.2,0.0,0.0,0.0,0
