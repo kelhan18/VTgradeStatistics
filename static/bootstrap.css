@@ -581,15 +581,57 @@ h6, .h6 {
 }
 
 .display-3 {
-  font-size: 4.5rem;
   font-weight: 300;
   line-height: 1.1;
+    text-shadow: 0 1px 0 #ccc,
+               0 2px 0 #c9c9c9,
+               0 3px 0 #bbb,
+               0 4px 0 #b9b9b9,
+               0 5px 0 #aaa,
+               0 6px 1px rgba(0,0,0,.1),
+               0 0 5px rgba(0,0,0,.1),
+               0 1px 3px rgba(0,0,0,.3),
+               0 3px 5px rgba(0,0,0,.2),
+               0 5px 10px rgba(0,0,0,.25),
+               0 10px 10px rgba(0,0,0,.2),
+               0 20px 20px rgba(0,0,0,.15);
+    color: lightskyblue;
+    font-family: 'Flamenco', cursive;
+   text-shadow: 1px 1px #000000,
+                2px 3px #000000,
+                3px 3px #000000,
+                4px 4px #000000;
+   -webkit-transition: all 0.12s ease-out;
+   -moz-transition:    all 0.12s ease-out;
+   -ms-transition:     all 0.12s ease-out;
+   -o-transition:      all 0.12s ease-out;
 }
 
 .display-4 {
-  font-size: 3.5rem;
   font-weight: 300;
-  line-height: 1.1;
+  line-height: normal;
+    text-shadow: 0 1px 0 #ccc,
+               0 2px 0 #c9c9c9,
+               0 3px 0 #bbb,
+               0 4px 0 #b9b9b9,
+               0 5px 0 #aaa,
+               0 6px 1px rgba(0,0,0,.1),
+               0 0 5px rgba(0,0,0,.1),
+               0 1px 3px rgba(0,0,0,.3),
+               0 3px 5px rgba(0,0,0,.2),
+               0 5px 10px rgba(0,0,0,.25),
+               0 10px 10px rgba(0,0,0,.2),
+               0 20px 20px rgba(0,0,0,.15);
+
+   font-family: 'Gravitas', cursive;
+   text-shadow: 1px 1px white,
+                2px 3px white;
+   -webkit-transition: all 0.12s ease-out;
+   -moz-transition:    all 0.12s ease-out;
+   -ms-transition:     all 0.12s ease-out;
+   -o-transition:      all 0.12s ease-out;
+    color: black;
+
 }
 
 hr {
@@ -2108,12 +2150,12 @@ pre code {
 }
 
 .table-bordered {
-  border: 1px solid #eceeef;
+  border: 1px solid black;
 }
 
 .table-bordered th,
 .table-bordered td {
-  border: 1px solid #eceeef;
+  border: 1px solid black;
 }
 
 .table-bordered thead th,
@@ -9318,3 +9360,50 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+.dropdown-backdrop {
+  position: static;
+}
+
+
+@media (min-width: 576px) {
+    .display-3 {
+        font-size: 3em;
+    }
+}
+@media (min-width: 768px) {
+    .display-3 {
+        font-size: 4em;
+    }
+}
+@media (min-width: 992px) {
+    .display-3 {
+        font-size: 6em;
+    }
+}
+@media (min-width:1200px) {
+    .display-3 {
+        font-size: 7em;
+    }
+}
+
+@media (min-width: 576px) {
+    .display-4 {
+        font-size: 2em;
+    }
+}
+@media (min-width: 768px) {
+    .display-4 {
+        font-size: 2.5em;
+    }
+}
+@media (min-width: 992px) {
+    .display-4 {
+        font-size: 3em;
+    }
+}
+@media (min-width:1200px) {
+    .display-4 {
+        font-size: 2.5em;
+    }
+}

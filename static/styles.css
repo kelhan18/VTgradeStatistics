@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background: url('gplaypattern.png') repeat 0 0;
 }
 
 .contact_body{
@@ -25,7 +25,9 @@ h1 {
                0 10px 10px rgba(0,0,0,.2),
                0 20px 20px rgba(0,0,0,.15);
     color: #b9def0;
-   font: bold 52px Helvetica, Arial, Sans-Serif;
+    ;
+   font-size: 52px;
+    font-family: 'Orbitron', sans-serif;
    text-shadow: 1px 1px #000000,
                 2px 3px #000000,
                 3px 3px #000000,
@@ -51,7 +53,7 @@ h2 {
                0 10px 10px rgba(0,0,0,.2),
                0 20px 20px rgba(0,0,0,.15);
     color: red;
-   font: bold 52px Helvetica, Arial, Sans-Serif;
+   font: bold 52px 'Berkshire Swash', cursive;
    text-shadow: 1px 1px #000000,
                 2px 3px #000000,
                 3px 3px #000000,
@@ -118,8 +120,8 @@ h2 {
                0 5px 10px rgba(0,0,0,.25),
                0 10px 10px rgba(0,0,0,.2),
                0 20px 20px rgba(0,0,0,.15);
-    color: white;
-   font: bold 30px Helvetica, Arial, Sans-Serif;
+    color: navajowhite;
+   font: bold 30px 'Nobile', sans-serif;
    text-shadow: 1px 1px #000000,
                 2px 3px #000000,
                 3px 3px #000000,
@@ -128,4 +130,20 @@ h2 {
    -moz-transition:    all 0.12s ease-out;
    -ms-transition:     all 0.12s ease-out;
    -o-transition:      all 0.12s ease-out;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+.table1 {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tableheader {
+    text-align: center;
+    margin-top: 5%;
 }

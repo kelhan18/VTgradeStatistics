@@ -5,8 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>VT Grade Distribution: Powered by Keller Han</title>
-    <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="bootstrap.css">
     <link rel="stylesheet" type="text/css" href="styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
+
     <!-- Optional Bootstrap theme -->
     <link rel="stylesheet" href="bootstrap-theme.min.css">
 </head>
@@ -20,28 +22,34 @@
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item">
-            <a class="nav-link" href="/">Home<span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="index.html">Home<span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Courses</a>
             <div class="dropdown-menu" aria-labelledby="dropdown01">
-              <a class="dropdown-item" href="/aero">Aerospace Engineering</a>
-              <a class="dropdown-item" href="/cs">Computer Science</a>
-              <a class="dropdown-item" href="/ece">Electrical and Computer Engineering</a>
+                <a class="dropdown-item" href="acis.html">Accounting and Information Systems</a>
+              <a class="dropdown-item" href="aero.html">Aerospace Engineering</a>
+                <a class="dropdown-item" href="bit.html">Business Information Technology</a>
+              <a class="dropdown-item" href="cs.html">Computer Science</a>
+              <a class="dropdown-item" href="ece.html">Electrical and Computer Engineering</a>
+                <a class="dropdown-item" href="finance.html">Finance</a>
+                <a class="dropdown-item" href="math.html">Math</a>
             </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/contact">Contact</a>
+            <a class="nav-link" href="contact.html">Contact</a>
           </li>
         </ul>
       </div>
     </nav>
 
-<table style="margin-left: 3px" border="1" class="table">
+<table class="table table1 table-bordered table-hover">
   <thead>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <h1 style = "margin-left: 3px; margin-top: 60px">Computer Science</h1>
-    <tr style="text-align: center">
+    <h1 class = "tableheader">Computer Science</h1>
+  </thead>
+    <tbody>
+    <tr>
       <th>Course ID</th>
       <th>Title</th>
       <th>Professor</th>
@@ -54,8 +62,6 @@
       <th>Withdrawals</th>
       <th># of Classes</th>
     </tr>
-  </thead>
-    <tbody>
     <tr>
       <th rowspan="2" valign="top">1014</th>
       <th rowspan="2" valign="top">Intro Computational Thinking</th>

@@ -65,11 +65,14 @@ body {
   font-weight: 300;
   line-height: 1;
   letter-spacing: -.05rem;
+  font-family: 'Roboto Slab', serif;
 
 }
 
 .lead {
   color: lightgray;
+  font-family: 'Roboto', sans-serif;
+
 }
 
 h2 {
@@ -117,3 +120,7 @@ h2 {
   }
 }
 
+.row {
+    margin-left: 10px;
+    margin-right: 10px;
+}

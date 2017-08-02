@@ -1,0 +1,44 @@
+﻿department,course_number_1,course_title,faculty,course_ei,credit_hours,qca,number,As,Bs,Cs,Ds,Fs,Textbox10
+BIT,2405,Quantitative Methods,Nottingham,11199,3,2.73,60,26.7,38.3,21.7,6.7,6.7,15
+BIT,2405,Quantitative Methods,Jones,11200,3,3.25,276,47.8,34.4,14.1,1.8,1.8,6
+BIT,2405,Quantitative Methods,Khansa,11201,3,3.04,57,29.8,42.1,26.3,1.8,0.0,5
+BIT,2406,Quantitative Methods,Nottingham,11202,3,2.61,52,19.2,38.5,34.6,5.8,1.9,4
+BIT,2406,Quantitative Methods,Teets,11203,3,3.47,130,53.1,40.8,6.2,0.0,0.0,0
+BIT,2406,Quantitative Methods,Teets,11204,3,3.63,149,74.5,22.1,0.7,1.3,1.3,2
+BIT,2406,Quantitative Methods,Teets,11205,3,3.43,112,53.6,38.4,7.1,0.0,0.9,0
+BIT,2406,Quantitative Methods,Teets,11206,3,3.67,116,71.6,25.9,2.6,0.0,0.0,0
+BIT,2406,Quantitative Methods,Seref,11207,3,3.14,82,43.9,34.1,17.1,3.7,1.2,2
+BIT,3414,Operations & Supply Chain Mgt,Clark,11208,3,2.80,92,26.1,40.2,26.1,5.4,2.2,2
+BIT,3414,Operations & Supply Chain Mgt,Clark,11209,3,2.72,82,18.3,45.1,29.3,6.1,1.2,3
+BIT,3414,Operations & Supply Chain Mgt,Clark,11210,3,2.75,83,20.5,47.0,22.9,6.0,3.6,7
+BIT,3414,Operations & Supply Chain Mgt,Taylor,11211,3,3.00,20,20.0,55.0,25.0,0.0,0.0,1
+BIT,3414,Operations & Supply Chain Mgt,Clark,11212,3,2.62,66,18.2,42.4,28.8,9.1,1.5,0
+BIT,3424,Intro Bus Analytics Modeling,Abrahams,11213,3,3.36,66,54.5,28.8,16.7,0.0,0.0,3
+BIT,3424,Intro Bus Analytics Modeling,Seref,11214,3,3.84,50,86.0,14.0,0.0,0.0,0.0,1
+BIT,3434,Adv Modeling for Bus Analytics,Rakes,11215,3,3.62,64,68.8,28.1,3.1,0.0,0.0,0
+BIT,3434,Adv Modeling for Bus Analytics,Ragsdale,11216,3,3.31,52,57.7,30.8,7.7,1.9,1.9,0
+BIT,3434,Adv Modeling for Bus Analytics,Ragsdale,11217,3,3.26,22,59.1,22.7,9.1,9.1,0.0,1
+BIT,3444,Adv Bus Comp and App,Wang,11218,3,3.35,57,49.1,43.9,5.3,1.8,0.0,5
+BIT,3444,Adv Bus Comp and App,Wang,11219,3,3.32,58,50.0,34.5,13.8,1.7,0.0,0
+BIT,3454,Business Process Improvement,Cook,11220,3,3.07,75,30.7,46.7,20.0,2.7,0.0,3
+BIT,3464,Enterprise Planning & Control,Khansa,11221,3,3.38,88,50.0,44.3,5.7,0.0,0.0,2
+BIT,4434,Comp Sim In Bus,Rees,11222,3,3.80,52,82.7,15.4,1.9,0.0,0.0,0
+BIT,4444,Web-Based DSS,Rees,11223,3,3.58,33,69.7,18.2,12.1,0.0,0.0,0
+BIT,4454,Bus Analysis Seminar in IT,Abrahams,11224,3,3.60,79,69.6,27.8,0.0,1.3,1.3,0
+BIT,4464,Adv Supply Chain Mgt,Cook,11225,3,3.42,46,41.3,56.5,2.2,0.0,0.0,0
+BIT,4474,Global Ops & Info Technology,Russell,11226,3,3.43,25,48.0,48.0,4.0,0.0,0.0,0
+BIT,4484,Project Management,Badinelli,11227,3,2.70,43,11.6,51.2,32.6,2.3,2.3,0
+BIT,4484,Project Management,Badinelli,11228,3,3.33,51,47.1,45.1,7.8,0.0,0.0,0
+BIT,4514,Database Technology for Bus,Deane,11229,3,3.15,29,34.5,48.3,17.2,0.0,0.0,0
+BIT,4524,Systems Development,Deane,11230,3,3.05,91,25.3,60.4,9.9,3.3,1.1,1
+BIT,4554,Networks & Telecomm Business,Rakes,11232,3,3.67,82,73.2,24.4,2.4,0.0,0.0,0
+BIT,4614,Information Security,James,11233,3,2.72,12,16.7,58.3,25.0,0.0,0.0,0
+BIT,5495,DSS Design and Implementation,Matheson,16955,3,3.70,32,75.0,21.9,3.1,0.0,0.0,0
+BIT,5414,POM in a Global Environment,Hoopes,17322,3,3.69,17,76.5,17.6,5.9,0.0,0.0,0
+BIT,5474,Computer-Based Dec Sup Sys,Major,17323,3,3.81,20,90.0,10.0,0.0,0.0,0.0,0
+BIT,5494,Intl Operations and Info Tech,Hoopes,17324,3,4.00,12,100.0,0.0,0.0,0.0,0.0,0
+BIT,5724,Managerial Statistics,Major,17328,3,3.47,18,55.6,38.9,5.6,0.0,0.0,0
+BIT,4474,Global Ops & Info Technology,Matheson,18955,3,3.28,57,54.4,28.1,17.5,0.0,0.0,2
+BIT,3444,Adv Bus Comp and App,Seref,19696,3,3.14,35,57.1,11.4,28.6,0.0,2.9,3
+BIT,5984,SS: Appl Bus Intell & Analytcs,Major,20012,3,3.75,12,75.0,25.0,0.0,0.0,0.0,0
+

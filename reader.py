@@ -63,11 +63,90 @@ class Reader:
         average['# of Classes'] = classes_taught
         average.to_html('/Users/keller/PycharmProjects/gradeDistribution/templates/ecetemplate.html', classes='ECE')
 
+    def readMath(self):
+        path = '/Users/keller/PycharmProjects/gradeDistribution/data'
+        allFiles = glob.glob(os.path.join(path, 'math/*.csv'))
+        df_from_each_file = (pd.read_csv(f, usecols=["course_number_1", "course_title", "faculty", "course_ei",
+                                                     "credit_hours", "qca", "number", "As", "Bs", "Cs", "Ds", "Fs",
+                                                     "Textbox10"], header=0) for f in allFiles)
+
+        concatenated_df = pd.concat(df_from_each_file, ignore_index=True)
+        concatenated_df.columns = ["Course ID", "Title", "Professor", "CRN", "Credits", "GPA", "Students", "A%", "B%",
+                                   "C%", "D%", "F%", "Withdrawals"]
+
+        grouped = concatenated_df.groupby(['Course ID', 'Title', 'Professor'])
+        classes_taught = concatenated_df.groupby(['Course ID', 'Title', 'Professor']).size()
+        average = grouped[['GPA', 'A%', 'B%', 'C%', 'D%', 'F%']].mean()
+        average = average.applymap("{0:.2f}".format)
+        average['Withdrawals'] = grouped[['Withdrawals']].sum()
+        average['# of Classes'] = classes_taught
+        average.to_html('/Users/keller/PycharmProjects/gradeDistribution/templates/mathtemplate.html', classes='MATH')
+
+    def readBIT(self):
+        path = '/Users/keller/PycharmProjects/gradeDistribution/data'
+        allFiles = glob.glob(os.path.join(path, 'bit/*.csv'))
+        df_from_each_file = (pd.read_csv(f, usecols=["course_number_1", "course_title", "faculty", "course_ei",
+                                                     "credit_hours", "qca", "number", "As", "Bs", "Cs", "Ds", "Fs",
+                                                     "Textbox10"], header=0) for f in allFiles)
+
+        concatenated_df = pd.concat(df_from_each_file, ignore_index=True)
+        concatenated_df.columns = ["Course ID", "Title", "Professor", "CRN", "Credits", "GPA", "Students", "A%", "B%",
+                                   "C%", "D%", "F%", "Withdrawals"]
+
+        grouped = concatenated_df.groupby(['Course ID', 'Title', 'Professor'])
+        classes_taught = concatenated_df.groupby(['Course ID', 'Title', 'Professor']).size()
+        average = grouped[['GPA', 'A%', 'B%', 'C%', 'D%', 'F%']].mean()
+        average = average.applymap("{0:.2f}".format)
+        average['Withdrawals'] = grouped[['Withdrawals']].sum()
+        average['# of Classes'] = classes_taught
+        average.to_html('/Users/keller/PycharmProjects/gradeDistribution/templates/bittemplate.html', classes='BIT')
+
+    def readACIS(self):
+        path = '/Users/keller/PycharmProjects/gradeDistribution/data'
+        allFiles = glob.glob(os.path.join(path, 'accounting/*.csv'))
+        df_from_each_file = (pd.read_csv(f, usecols=["course_number_1", "course_title", "faculty", "course_ei",
+                                                     "credit_hours", "qca", "number", "As", "Bs", "Cs", "Ds", "Fs",
+                                                     "Textbox10"], header=0) for f in allFiles)
+
+        concatenated_df = pd.concat(df_from_each_file, ignore_index=True)
+        concatenated_df.columns = ["Course ID", "Title", "Professor", "CRN", "Credits", "GPA", "Students", "A%", "B%",
+                                   "C%", "D%", "F%", "Withdrawals"]
+
+        grouped = concatenated_df.groupby(['Course ID', 'Title', 'Professor'])
+        classes_taught = concatenated_df.groupby(['Course ID', 'Title', 'Professor']).size()
+        average = grouped[['GPA', 'A%', 'B%', 'C%', 'D%', 'F%']].mean()
+        average = average.applymap("{0:.2f}".format)
+        average['Withdrawals'] = grouped[['Withdrawals']].sum()
+        average['# of Classes'] = classes_taught
+        average.to_html('/Users/keller/PycharmProjects/gradeDistribution/templates/acistemplate.html', classes='ACIS')
+
+    def readFIN(self):
+        path = '/Users/keller/PycharmProjects/gradeDistribution/data'
+        allFiles = glob.glob(os.path.join(path, 'finance/*.csv'))
+        df_from_each_file = (pd.read_csv(f, usecols=["course_number_1", "course_title", "faculty", "course_ei",
+                                                     "credit_hours", "qca", "number", "As", "Bs", "Cs", "Ds", "Fs",
+                                                     "Textbox10"], header=0) for f in allFiles)
+
+        concatenated_df = pd.concat(df_from_each_file, ignore_index=True)
+        concatenated_df.columns = ["Course ID", "Title", "Professor", "CRN", "Credits", "GPA", "Students", "A%", "B%",
+                                   "C%", "D%", "F%", "Withdrawals"]
+
+        grouped = concatenated_df.groupby(['Course ID', 'Title', 'Professor'])
+        classes_taught = concatenated_df.groupby(['Course ID', 'Title', 'Professor']).size()
+        average = grouped[['GPA', 'A%', 'B%', 'C%', 'D%', 'F%']].mean()
+        average = average.applymap("{0:.2f}".format)
+        average['Withdrawals'] = grouped[['Withdrawals']].sum()
+        average['# of Classes'] = classes_taught
+        average.to_html('/Users/keller/PycharmProjects/gradeDistribution/templates/financetemplate.html', classes='FIN')
+
 def main():
     x = Reader()
     x.readCS()
     x.readAero()
     x.readECE()
-
+    x.readMath()
+    x.readBIT()
+    x.readACIS()
+    x.readFIN()
 if __name__ == '__main__':
     main()
