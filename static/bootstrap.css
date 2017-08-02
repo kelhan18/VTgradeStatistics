@@ -9394,17 +9394,17 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 }
 @media (min-width: 768px) {
     .display-4 {
-        font-size: 2.5em;
+        font-size: 1.5em;
     }
 }
 @media (min-width: 992px) {
     .display-4 {
-        font-size: 3em;
+        font-size: 2em;
     }
 }
 @media (min-width:1200px) {
     .display-4 {
-        font-size: 2.5em;
+        font-size: 2em;
     }
 }
 
