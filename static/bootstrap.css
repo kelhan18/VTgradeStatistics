@@ -596,7 +596,7 @@ h6, .h6 {
                0 10px 10px rgba(0,0,0,.2),
                0 20px 20px rgba(0,0,0,.15);
     color: lightskyblue;
-    font-family: 'Flamenco', cursive;
+    font-family: 'Flamenco';
    text-shadow: 1px 1px #000000,
                 2px 3px #000000,
                 3px 3px #000000,
@@ -623,7 +623,7 @@ h6, .h6 {
                0 10px 10px rgba(0,0,0,.2),
                0 20px 20px rgba(0,0,0,.15);
 
-   font-family: 'Gravitas', cursive;
+   font-family: 'Gravitas';
    text-shadow: 1px 1px white,
                 2px 3px white;
    -webkit-transition: all 0.12s ease-out;

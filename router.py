@@ -6,11 +6,11 @@ app = Flask(__name__, static_url_path='')
 
 @app.route('/')
 def show_home():
-    return render_template('index.html')
-@app.route('/index.html')
+    return render_template('stats.html')
+@app.route('/stats.html')
 def show_main():
 
-    return render_template('index.html')
+    return render_template('stats.html')
 
 @app.route('/cs.html')
 
@@ -46,6 +46,10 @@ def show_finance():
 @app.route('/acis.html')
 def show_accounting():
     return render_template('acis.html')
+
+@app.route('/album.html')
+def show_album():
+    return render_template('album.html')
 
 if __name__ == "__main__":
     app.run(debug=True, port=5050)
